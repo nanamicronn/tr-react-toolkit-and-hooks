@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4758eb55-8d84-477b-acd7-0b67bd6a40b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/features/task/TaskItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/task/TaskList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/task/TaskInput.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
@@ -33,7 +32,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,7 +46,7 @@
       <workItem from="1624450198579" duration="21000" />
       <workItem from="1624450239710" duration="3116000" />
       <workItem from="1624453630087" duration="858000" />
-      <workItem from="1624454565341" duration="1039000" />
+      <workItem from="1624454565341" duration="2422000" />
     </task>
     <task id="LOCAL-00001" summary="[update] update .gitignore">
       <created>1624452144289</created>
@@ -63,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624453387712</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[update] create TaskList component and display on the browser">
+      <created>1624455968708</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624455968708</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,7 +78,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[update] update .gitignore" />
     <MESSAGE value="[update] create taskSlice and add task to store" />
-    <option name="LAST_COMMIT_MESSAGE" value="[update] create taskSlice and add task to store" />
+    <MESSAGE value="[update] create TaskList component and display on the browser" />
+    <option name="LAST_COMMIT_MESSAGE" value="[update] create TaskList component and display on the browser" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
